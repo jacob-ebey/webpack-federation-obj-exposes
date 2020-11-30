@@ -1,0 +1,20 @@
+{
+  "name": "webpack-federation-obj-exposes",
+  "version": "1.0.0",
+  "description": "Configure Webpack 5 Module Federation exposes through a nested object hierarchy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "webpack",
+    "module",
+    "federation",
+    "exposes"
+  ],
+  "author": "Jacob Ebey",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
